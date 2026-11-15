@@ -1,0 +1,5 @@
+google-genai
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+python-dotenv
